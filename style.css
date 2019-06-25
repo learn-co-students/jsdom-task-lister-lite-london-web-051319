@@ -14,6 +14,14 @@ button {
   font-size: 7px;
 }
 
+span {
+   width: 70px;
+   height: 20px;
+   border: 1px solid black;
+   border-radius: 5px;
+   padding: 5px;
+}
+
 #main-content {
   position: relative;
   display: flex;
